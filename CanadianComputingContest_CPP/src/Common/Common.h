@@ -12,7 +12,7 @@ class Common {
 protected:
     string filePath;
     ifstream fileBufferReader;
-    const string RESOURCE_FOLDER = "src/Resources/";
+    const string RESOURCE_FOLDER = "Resources/";
 
 public:
     Common(const string fileName);

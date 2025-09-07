@@ -4,7 +4,7 @@
 
 int main() {
     string fileName = "Resources2022/s2.2-01.in";
-    Question2 question(fileName);
-    //problem.solveAndDisplay();
+    Question2 problem(fileName);
+    problem.solveAndDisplay();
     return 0;
 }
